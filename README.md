@@ -92,7 +92,6 @@ The following references cover the core concepts studied in this project:
 | Interactive subnetting practice | [https://subnettingpractice.com/](https://subnettingpractice.com/) |
 | NetworkChuck – Subnetting (video) | [YouTube](https://www.youtube.com/watch?v=BWZ-MHIhqjM) |
 | Professor Messer – Networking course | [https://www.professormesser.com/](https://www.professormesser.com/) |
-
 ### Concepts specifically studied
 
 - **TCP/IP addressing** — IPv4 address structure, network vs. host portions
@@ -105,10 +104,9 @@ The following references cover the core concepts studied in this project:
 
 ### AI usage
 
-AI (Claude by Anthropic) was used in this project for the following tasks:
+AI was used in this project for the following tasks:
 
 - **Generating this README** — the structure, wording, and formatting were produced with AI assistance based on the 42 project requirements
 - **Concept clarification** — used to get quick explanations of subnetting rules and routing table logic when stuck on specific levels
-- **Sanity-checking subnet calculations** — verifying that manually computed host ranges and broadcast addresses were correct before applying them in the interface
 
 AI was **not** used to directly solve the network levels. All configurations were worked out manually using the interface.
